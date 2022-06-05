@@ -21,7 +21,7 @@ Zabbix template observes Linux Software RAID (md)
 
 Description
 -----------------
-- simple installation - based on /proc/mdstat and zabbix regexp item without Low Level Discovery;
+- simple installation - based on /proc/mdstat and zabbix regular expression item without Low Level Discovery;
 - not use any additional files/actions on monitored server(s), only zabbix agent is needed;
 - correctly worked on every linux OS even if linux don't have raid.
 - any raid numbers are available;
