@@ -41,10 +41,10 @@ Installation
 Import Zabbix template and add template to the monitored servers.
 You can just link the template to standard zabbix "Template OS Linux" and all servers worked under it will be checked on software RAID issues.
 
-Referrence:
+Referrences
 -------
 
-- https://www.kernel.org/doc/Documentation/md.txt
+- <https://www.kernel.org/doc/Documentation/md.txt>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
